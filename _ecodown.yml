@@ -1,0 +1,6 @@
+site:
+  clone_convert:
+    reference_examples: FALSE
+    packages:
+      - repo_url: https://github.com/tidyvers/parsnip
+        quarto_sub_folder: packages/parsnip
